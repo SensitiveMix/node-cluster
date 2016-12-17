@@ -1,0 +1,13 @@
+{
+  "name": "cluster",
+  "version": "1.0.0",
+  "description": "cluster share port ",
+  "main": "app.js",
+  "author": "Jack",
+  "license": "MIT",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "http": "^0.0.0",
+    "os": "^0.1.1"
+  }
+}
